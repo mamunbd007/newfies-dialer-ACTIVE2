@@ -24,7 +24,7 @@ ADMINS = (
     # ('Your Name', 'your_email@domain.com'),
 )
 
-TIME_ZONE = 'Europe/Madrid'
+TIME_ZONE = 'Asia/Dhaka'
 
 APPLICATION_DIR = os.path.dirname(globals()['__file__'])
 
