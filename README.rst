@@ -66,7 +66,7 @@ Installation
 
 Newfies is a django based application, so the major requirements are :
 
-    - python >= 2.6
+    - python >= 2.7
     - Apache / http server with WSGI modules
     - Django Framework >= 1.5
     - Celery >= 3.1
